@@ -1,0 +1,491 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca selecta, or, A catalogue of Greek, Latin and English books viz. fathers, historians, general councils, criticks, &amp;c., which will be sold by auction on Thursday next, the 8th day of this instant March, 1693/4 at Rolls's Auction-House, in Petty-Canon-Alley, in St. Paul's Church-yard ... / by Edward Millington.</title>
+            <author>Millington, Edward, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28126</idno>
+            <idno type="STC">Wing B2850</idno>
+            <idno type="STC">ESTC R39613</idno>
+            <idno type="EEBO-CITATION">18451593</idno>
+            <idno type="OCLC">ocm 18451593</idno>
+            <idno type="VID">107696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107696)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1628:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca selecta, or, A catalogue of Greek, Latin and English books viz. fathers, historians, general councils, criticks, &amp;c., which will be sold by auction on Thursday next, the 8th day of this instant March, 1693/4 at Rolls's Auction-House, in Petty-Canon-Alley, in St. Paul's Church-yard ... / by Edward Millington.</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues are distributed by Mr. Partridge ... Mr. Hargrave ... Mr. Southby ... Mr. Jay ... and at the place of sale,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in Latin and English.</note>
+                  <note>"Conditions of sale. I. The highest bidder is the buyer ... II. What books appear imperfect before they are taken away, the buyer shall have liberty to refuse.  III. Every buyer shall give in his name and place of abode ... and be obliged to take away his books within three days after the sale is ended.  All gentlemen are desired to appear early, the sale being designed to be finished the same afternoon."</note>
+                  <note>Imperfect: cropped, stained and tightly bound.</note>
+                  <note>Reproduction of original in the John Johnson Collection, Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England.</term>
+               <term>Private libraries --  England --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107696:1" rendition="simple:additions"/>
+            <p>Bibliotheca Selecta: OR, A CATALOGUE OF Greek, Latin and Engliſh Books, VIZ. <hi>Fathers, Hiſtorians, General Councils, Criticks,</hi> &amp;c.</p>
+            <p>WHICH Will be Sold by <hi>Auction</hi> on <hi>Thurſday</hi> next, the 8th. day of this inſtant <hi>March,</hi> 1693/4. at <hi>Rolls</hi>'s <hi>Auction-Houſe,</hi> in <hi>Petty-Canon-Alley,</hi> in St. <hi>Paul</hi>'s Church-yard.</p>
+            <p>Conditions of <hi>SALE.</hi>
+               <list>
+                  <item>I. The higheſt Bidder is the Buyer; and if any difference ariſeth the Book ſhall be re-expoſed.</item>
+                  <item>II. What Books appear imperfect before they be taken away, the Buyer ſhall have Liberty to refuſe.</item>
+                  <item>III. Every Buyer ſhall give in his Name and place of abode, and pay five ſhillings in the pound for what he ſhall buy, if demanded, and be obliged to take away his Books within three days after the Sale is ended.</item>
+               </list>
+            </p>
+            <p>All Gentlemen are deſired to appear early, the Sale being deſigned to be finiſhed the ſame Afternoon.</p>
+            <p>By <hi>Edward Millington.</hi>
+            </p>
+            <p>CATALOGUES are Diſtributed by Mr. <hi>Partridge</hi> at <hi>Charing-croſs,</hi> Mr. <hi>Hargrave</hi> in <hi>Holborn,</hi> Mr. <hi>Southby</hi> in <hi>Fleet-ſtreet,</hi> Mr. <hi>Jay</hi> under the <hi>South-Piazza</hi> of the <hi>Royal Exchange,</hi> and at the Place</p>
+         </div>
+      </front>
+      <body>
+         <div type="auction_catalogue__books">
+            <pb n="2" facs="tcp:107696:2"/>
+            <list>
+               <head>Libri Miſcellanei, &amp;c. in <hi>Folio.</hi>
+               </head>
+               <item>1 HUgonis Grotii Annot. in Evangelia cum Appendice <hi>Amſt.</hi> 1641</item>
+               <item>2 Davenantii Determinationes Theolog. &amp; de morte Chriſti <hi>Cant.</hi> 1639</item>
+               <item>3 Creyghtoni vera hiſt. Concil. Florentin. <hi>Hag. Com</hi> 1660</item>
+               <item>4 Juſtini Martyris Opera gr. lat. <hi>Col</hi> 1686</item>
+               <item>5 Calepini Dictionarium undecim linguarum <hi>Baſ:</hi>
+               </item>
+               <item>6 Imhoff geneologia Galliae ad praeſens Aevum deducta <hi>Nor.</hi> 1687</item>
+               <item>7 Baſilii Fabri theſaurus eruditionis Scholaſticae <hi>Lipſ.</hi> 1692</item>
+               <item>8 Chauvini Lexicon rationale, ſive Theſaur. Philoſoph. <hi>Rot.</hi> 1692</item>
+               <item>9 Homeri Opera gr. lat. comment. Spondani <hi>Baſ.</hi>
+               </item>
+               <item>10 Ariſtotelis Opera omnia gr. lat. 4 Vol. <hi>Par.</hi> 1654</item>
+               <item>11 Joannis Pici Mirandulae Opera omnia <hi>Baſ.</hi>
+               </item>
+               <item>12 Herodoti hiſt. gr. lat. edit. à Tho. Gale <hi>Lond</hi> 1679</item>
+               <item>13 Martini Pugio Fidei cum Comment. &amp; Appendice <hi>Lipſ.</hi> 1687</item>
+               <item>14 Boxhornii Chronologia Plurimis additionibus aucta <hi>Bud.</hi> 1688</item>
+               <item>15 Cypriani Opera cum diſſertationibus Cyprianicis <hi>Amſt.</hi> 1691</item>
+               <item>16 Theodoreti Auctar. ſeu operum tomus quintus <hi>Lut. Par.</hi> 1684</item>
+               <item>17 Uſſerii antiquitates Eecleſiae Britannicae <hi>Lond.</hi> 1687</item>
+               <item>18 Seckendorf. de reformatione Relig. ductu Mart. Lutheri in 2 Vol. 1692</item>
+               <item>19 Corn Nepos de vita Imperatorum cum Comment. variis <hi>Franc.</hi> 1508</item>
+               <item>20 Iſaaci Barrow opuſcula, viz Conciones, Orationes, &amp;c. <hi>Lond.</hi> 1687</item>
+               <item>21 Virgilii Maronis opera notis Servii</item>
+               <item>22 C. Plinii hiſt. mundi naturalis <hi>Franc.</hi> 1582</item>
+               <item>23 T. Livii hiſt. Romana ab urbe condita notis Gruteri 1608</item>
+               <item>24 Clementis Alexandrini opera gr. lat. <hi>Col.</hi> 1688</item>
+               <item>25 Bellarminus de Controverſiis Chriſtianae Fidei in 4 Vol. <hi>Lugd.</hi> 1587</item>
+               <item>26 Divi Ambroſii opera 2 Vol. <hi>Baſ.</hi> 1566</item>
+               <item>27 Whartoni Anglia Sacra 2 Vol. <hi>Lond.</hi> 1692, 1693</item>
+               <item>28 Blunt Cenſura Authorum ibid. 1690</item>
+               <item>29 Ferrarii Lexicon Geographicum 1677</item>
+               <item>30 Cave Scriptor Eccleſiaſticor. hiſtoria literaria</item>
+               <item>31 Lloyd Diſtionar. Hiſtor. Geograph. Poetic.</item>
+               <item>32 Stella in Lucam</item>
+               <item>33 Jo. Raii hiſtoria Plantarum 2 Vol. <hi>Lond.</hi> 1686</item>
+               <item>34 Plotini opera gr. lat. cum Comment. Ficini <hi>Baſ.</hi> 1615</item>
+               <item>35 Athenaei opera gr. lat. cum notis Caſauboni <hi>Lugd.</hi> 1657</item>
+               <item>36 S. Caecilii Cypriani opera cum Annot. Rigaltii &amp; Pamelii <hi>Par.</hi> 1666</item>
+               <item>37 S Dionyſii Areopag. opera omnia cum Betulei commentariis</item>
+               <item>38 Jo. Stobaei Sententiae è Theſaur. Graecor. delectae gr. lat. <hi>Gen.</hi> 1607</item>
+               <item>39 Hiſtoriae Romanae Scriptores Latini veteres qui extant omnes 1621</item>
+               <item>40 Hiſtoriae Anglicanae Scriptores X. edit. Rog. Twiſden <hi>Lond.</hi> 1652</item>
+               <item>41 P. Virgilii opera notis Jo. Lud. de la Cerda Illuſtrata 3 Vol. <hi>Col.</hi> 1663</item>
+               <item>42 Strabonis Geographia gr. lat. cum chartis Tabulis 1571</item>
+               <item>43 Dionis Caſſii hiſt. Rom. lib. 25 gr. lat. &amp; Jo. Xiphilini Epitome Dionis gr. lat. <hi>H. Steph.</hi> 1592</item>
+               <item>44 Lud. Caelii Rhodigini Lectiones antiquae <hi>Baſ.</hi> 1543</item>
+               <item>45 Epigrammata Graeca cum annot. Jo. Brodaei &amp; H. Stephani 1609</item>
+               <item>46 M. T. Ciceronis opera quae extant omnia <hi>Lond.</hi> 1681</item>
+               <item>47 Dictionarium Hiſtor. Geograph. Poet. H. Lloyd <hi>Lond.</hi> 1686</item>
+               <item>48 Jo. Calvini opera 11 Vol. <hi>Gen.</hi>
+               </item>
+               <item>49 Critici Sacri, ſive opera Druſii, Grotii, Pricaei, &amp;c. una cum 2 vol. Tractat. 9 Vol. <hi>Lond.</hi> 1659</item>
+               <item>50 S. Chryſoſtomi opera omnia gr. curioſiſſ. edit. H. Savil 8 Vol. <hi>Eton.</hi> 1608</item>
+               <item>51 Nizolius, ſive Theſaurus Ciceronianus <hi>Baſ.</hi> 1572</item>
+               <item>52 Sancti Athanaſii opera gr. lat. 2 Vol. 1600</item>
+               <item>53 Jamblichus de myſteriis gr. lat. <hi>Oxon.</hi> 1688</item>
+               <item>54 Simonis Epiſcopi operum Theologicorum Vol. 1 <hi>Amſt.</hi> 1601</item>
+               <item>55 Sancti Ambroſii Opera omnia 3 Vol. <hi>Par.</hi> 1614</item>
+               <item>56 Gregorii Magni Papae opera 2 Vol. ibid. 1586</item>
+               <item>57 Biblia ſacra Polyglotta Waltoniana 6 Vol. <hi>Lond.</hi> 1657</item>
+               <item>58 Concilia Maxima cum Apparatu Labbaei &amp; Coſſartii gr. lat. 18 Vol. opt. edit. <hi>Par.</hi> 1647</item>
+            </list>
+            <list>
+               <pb n="3" facs="tcp:107696:2"/>
+               <head>Libri Miſcellanei, &amp;c. in <hi>Quarto.</hi>
+               </head>
+               <item>59 Alteſerra in Anaſtaſium de vitis Rom. Pontificum <hi>Par.</hi> 1680</item>
+               <item>60 Camdeni &amp; illuſtrium virorum Epiſtolae <hi>Lond.</hi> 1691</item>
+               <item>61 Crenius de ſtudiis opt. inſtituendis <hi>Rot.</hi> 1692</item>
+               <item>62 Crellii Ethica Ariſtotelica &amp; Chriſtiana</item>
+               <item>63 Henrici Mori Enchiridion metaphyſicum <hi>Lond.</hi> 1671</item>
+               <item>64 Renati des Cartes Epiſtolae ibid. 1668</item>
+               <item>65 Leſlaeus de origine &amp; moribus Scotorum <hi>Romae</hi> 1675</item>
+               <item>66 Charlton de quadrupedibus, avibus, piſcibus, inſectis <hi>Lond.</hi> 1673</item>
+               <item>67 Suetonius notis Graevii <hi>Hag. Com.</hi> 1691</item>
+               <item>68 Glaſſii Philologia ſacra de ſtylo Scripturae &amp;c. 1691</item>
+               <item>69 Pocockii Hiſtoria Dynaſtiarum à mundo condito <hi>Oxon.</hi> 1663</item>
+               <item>70 Baſmagius dé rebus ſacris &amp; Eccleſiaſticis <hi>
+                     <g ref="char:V">Ʋ</g>ltraj.</hi> 1692</item>
+               <item>71 Pearſoni opera poſthuma de ſucceſſione Epiſcoporum &amp;c. 1688</item>
+               <item>72 Card. Bellarminus de Scriptoribus Eccleſiaſticis <hi>Col.</hi> 1684</item>
+               <item>73 Origen contra Celſum gr.lat. <hi>Cant.</hi> 1677</item>
+               <item>74 Gultichii Theologia prophetica de rebus vet. Teſtamenti in 2 Vol. 1684</item>
+               <item>75—Compendium Librorum Propheticorum 1683</item>
+               <item>76 Voſſii diſquiſit. crit. de variis Bibliorum editionibus <hi>Lond.</hi> 1684</item>
+               <item>77 Caſali diſquiſitiones Phyſicae de Igne <hi>Franc.</hi> 1680</item>
+               <item>78 Heinſii Exercitationes in novum Teſtamentum <hi>Cant.</hi> 1640</item>
+               <item>79 Heideggerus de ſanguine ſuffocato <hi>Tig.</hi> 1678</item>
+               <item>8<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scharpii Symphonia Prophetarum &amp; Apoſtolorum <hi>Gen.</hi> 1625</item>
+               <item>81 Iſaaci Caſauboni Epiſtolae 1656</item>
+               <item>82 Cauſſinus de Eloquentia ſacra &amp; humana 1684</item>
+               <item>83 Uſſerii Hiſtoria dogmatica de ſacris Scripturis 1690</item>
+               <item>84 Acta &amp; ſcripta ſynodalia Dordracena 1620</item>
+            </list>
+            <list>
+               <head>Libri Miſcellanci, &amp;c. in <hi>8</hi>vo. &amp; <hi>120.</hi>
+               </head>
+               <item>85 Plutarchi Vitae &amp; Moralia gr. Steph. 6 Vol.</item>
+               <item>86 Origen de oratione gr. lat. <hi>Oxon.</hi>
+               </item>
+               <item>87 Titi Livii hiſtoria Gronovii 3 Vol. <hi>L. Bat.</hi> 1645</item>
+               <item>88 Apulei Metamorphoſeos notis Pricaei 1650</item>
+               <item>89 Titi Livii hiſtoria 2 Vol. <hi>Cant.</hi> 1679</item>
+               <item>90 Suetonius notis Pitiſci in 2 Vol. 1690</item>
+               <item>91 Zeiglerus in Grotium de Jure Belli ac Pacis 1686</item>
+               <item>92 Scaliger de cauſis linguae latinae 1597</item>
+               <item>93 Ten Rhyne de Arthritide 1683</item>
+               <item>94 Hody de LXX. Interpretibus diſſertatio 1685</item>
+               <item>95 Camdeni Annales regnante Elizabetha 1677</item>
+               <item>96 Fabricius de Unitate Eccleſiae Britannicae 1676</item>
+               <item>97 Zouch de politia Eccleſiae Anglicanae 1683</item>
+               <item>98 Crenii Faſciculus Diſſertationum 1681</item>
+               <item>99 Barclai Argenis cum clave 1673</item>
+            </list>
+            <list>
+               <head>Engliſh Books in <hi>Folio</hi>
+               </head>
+               <item>100 Dr. <hi>Lightfoot's</hi> Works in 2 Vol. with the Author's Life <hi>Lond.</hi> 1684</item>
+               <item>101 <hi>Quick</hi>'s Hiſtory of the National Councils of the Reformed Churches in <hi>France</hi> 2 Vol. 1692</item>
+               <item>102 Biſhop <hi>Brownrig</hi>'s Sermons 1685</item>
+               <item>103 Biſhop <hi>Pearſon</hi>'s Expoſition on the Creed 1692</item>
+               <item>104 Biſhop <hi>Laud</hi>'s Conference with <hi>Fiſher</hi> the Jeſuit 1686</item>
+               <item>105 Biſhop <hi>Burnet</hi>'s Hiſtory of the Reformation in 2 Vol.</item>
+               <item>106 <hi>Stilling fleet</hi>'s Defence of Biſhop <hi>Laud</hi>
+               </item>
+               <item>107 <hi>Ruſhworth</hi>'s Hiſtorical Collections in 5 Vol.</item>
+               <item>108 <hi>Towerſon</hi> on the Commandments</item>
+               <item>109—on the Sacraments</item>
+               <item>110 Dr. <hi>Cave</hi>'s Lives of the Fathers in 2 Vol.</item>
+               <item>111 <hi>Johnſon</hi>'s Excellency of Monarchical Government</item>
+               <item>112 <hi>Knowles</hi>'s Turkiſh Hiſtory, with <hi>Rycant</hi>'s Continuation and the Alcoran 2 Vol.</item>
+            </list>
+            <list>
+               <pb n="4" facs="tcp:107696:3"/>
+               <head>Engliſh Books in <hi>Folio.</hi>
+               </head>
+               <item>113 <hi>Fuller</hi>'s Piſgah ſight of Paleſtine, with Figures 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>114 <hi>Philoſtratus</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>115 Hiſtory of the Council of Trent, with the Life of the Author 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>116 Duke of <hi>Newcaſtle</hi>'s Horſmanſhip in <hi>French</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>117 Book of Homilies 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>118 <hi>John Boccacio</hi>'s Novels and Tales 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>119 <hi>Luſhington</hi> on the Epiſtle to the <hi>Galatians</hi> 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>120 <hi>Joſephus</hi>'s Works in Engliſh, laſt Edition 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>121 <hi>Wallis</hi>'s Hiſtorical and Practical Treatiſe of <hi>Algebra</hi> 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>122 <hi>Rycaut</hi>'s Hiſtory of the Kings, Laws and Government of <hi>Peru</hi> 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>123 <hi>Pettus</hi> of fining and refining Metals, with figures 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>124 <hi>Bacon</hi>'s Natural Hiſtory 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>125 <hi>Speed</hi>'s Mapps, the laſt Edition 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>126 <hi>Euſebius</hi> Eccleſiaſtical Hiſtory Engliſh'd with <hi>Valeſius</hi> Notes 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>127 <hi>Sandford</hi>'s Hiſtory of the Coronation of K. <hi>James</hi> II. with curious Sculptures 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>Engliſh Books in <hi>Quarto.</hi>
+               </head>
+               <item>128 <hi>Chillingworth</hi> contracted by Dr <hi>Patrick,</hi> with his aditional Tracts, never before extant —<hi>Lond.</hi> 16<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>129 <hi>Flavel</hi>'s Method of Grace in the Redemption of Mankind 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>130 <hi>Alix</hi>'s Remarks on the Churches of the <hi>Albigenſes</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>131—on the Churches of <hi>Piedmont</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>132 <hi>Durel</hi> of the Government and Worſhip of the Reformed Churches beyond Seas 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>133 <hi>Stillingfleet</hi>'s Origines Sacrae 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>134 <hi>Warren</hi>'s Diſcourſe of the Earth before the Deluge 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>135 <hi>South</hi>'s Animadverſions upon <hi>Sherlock</hi> on the Trinity 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>136 Biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s Anſwer to the Jeſuits Challenge 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>137 An Exam. of thoſe Texts the Papiſts cite for proof of their Rel. by the <hi>London</hi> Divines 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>138 The Parable of the Pilgrim by Dr. <hi>Symon Patrick</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>139 Hiſtory of the Celebration, Doctrine and Worſhip of the Euchariſt 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>140 <hi>Bellarmine</hi>'s Notes of the Church examined and confuted by the <hi>London</hi> Divines 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>141 Dr. <hi>Wake</hi>'s Tracts againſt the Papiſts in 2 Vol.</item>
+               <item>142 <hi>John Hales</hi> of <hi>Eaton</hi> his Golden Remains 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <head>Engliſh Books in <hi>Octavo.</hi>
+               </head>
+               <item>143 <hi>Allix</hi>'s Reflections on the Books of the Holy Scripture 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>144 <hi>Knatchbu<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>'s Annotations on difficult Texts in the New Teſtament 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>145 <hi>Tanner</hi>'s Riſe and Growth of the firſt Church of God 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>146 The preſent State of <hi>Germany</hi> by a Perſon of Quality 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>147 <hi>Lawſon</hi> of the Civil and Eccleſiaſtical Government of <hi>England</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>148 <hi>James</hi> of the Corruption of the Fathers by the Roman Church 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>149 Judge <hi>Hales</hi> of the Knowledge of God and our ſelves 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>150 Dr. <hi>Puller</hi> of the Moderation of the Church of <hi>England</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>151 Dr. <hi>Sherlock</hi>'s diſcourſe of Church Unity 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>152 Biſhop <hi>Laud</hi>'s Devotions 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>153 <hi>Bertram</hi> on the Sacrament, Engliſh and Latin 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>154 Biſhop <hi>Burnet</hi>'s Right of Princes in diſpoſing Church Lands 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>155 <hi>Fa. Simon</hi>'s Hiſtory of Eccleſiaſtical Revenues 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>156 Sir <hi>Thomas More</hi>'s <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> engliſhed by Dr. <hi>Burnet</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>157 Hiſtory of the Foundation and Prerogatives of the Church of <hi>Rome</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>158 Animadverſions on the Proteſtant Reconciler 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>159 Life of <hi>Julian</hi> the Apoſtate, by <hi>Johnſon</hi> 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>160 Dr. <hi>Comber</hi>'s Companion to the Altar 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>161 Iriſh <hi>Hudibraſs,</hi> adapted to the times 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>162 <hi>Plutarch</hi>'s Morals, engliſhed by ſeveral hands in 5 Vol. 1<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
